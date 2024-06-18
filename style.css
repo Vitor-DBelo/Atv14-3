@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: white;
+}
+h3{
+    color: black;
+}
+h2{
+    color: black;
+    border: 2px solid;
+}
+li{
+    color: white;
+}
+h2{
+    width: 90px;
+    background-color: blue;
+}
+#astronomy-class{
+    color: darkblue;
+}
